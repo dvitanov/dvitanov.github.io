@@ -1,0 +1,59 @@
+.notes {
+	font-size: small;
+	color: gray;
+}
+
+.toc {
+	float: right;
+	width: 250px;
+	text-align: left;
+	background-color: rgb(245,245,245);
+	border-left-width: thin;
+	margin-left: 50px;
+	padding: 5px;
+	font-size:small	;
+}
+
+.list {
+	padding-left: 15px;
+	margin-left: 15px;
+}
+
+.main {
+	font-size: large;
+	width: 650px;
+	float: left;
+}
+
+.summary {
+	font-size: large;
+	width: 650px;
+	background-color: rgb(255, 250, 205);
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.footer {
+	font-size: small; 
+	width: 650px;
+	float: bottom;
+}
+
+.footnote{
+	font-size: small;
+	color: gray;
+}	
+
+.holder {
+	position: relative; 
+	width: 960px; 
+	margin: 0 auto;
+}
+
+.subtitle {
+	margin-right: 30%;
+}
+
+#menu {
+	margin-bottom: 5px;
+}
